@@ -1,1 +1,3 @@
-# WR204_Blog
+# WR204
+
+Exercice d'ecriture d'article sur un thème choisi.
